@@ -1,0 +1,1 @@
+function marklist(id,name,state){$('#'+id+' input[name="'+name+'[]"]').attr('checked',state).parent().toggleClass('checked',state);};$(function(){$('.profile-tabs a').on('click',function(){if(href=$(this).data('href')){window.location.href=href;}});});

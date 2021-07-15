@@ -1,0 +1,3 @@
+function link_complete(url,link_id,is_registered,top){if(is_registered){$('.complete_button').addClass('loader');$.ajax({type:'POST',data:{link_id:link_id},url:url,success:function(result){if(result=='1'){$('.navigation').addClass('completed');}}});}else{if(top){$('.register.top').show();}else{$('.register.bottom').show();}}
+return false;}
+function sitemap_ready(expand,collapse){var width=64;$(function(){$('.sub').hide();$('.expand').width(width+'px').text(expand);$('.expand').click(function(){$(this).siblings('.sub').slideToggle('slow');$(this).text(($(this).text()==expand)?collapse:expand);return false;});$('.expand_all').click(function(){$('.sub').slideDown();return false;});$('.collapse_all').click(function(){$('.sub').slideUp();return false;});});}

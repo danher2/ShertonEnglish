@@ -1,0 +1,2 @@
+function cb_submit(){grecaptcha.execute();$('.guestbook-form').submit();}
+$(function(){$('.select2').select2({minimumResultsForSearch:20,allowClear:true,});$('#show_form').click(function(){$('.success').hide();$('#guestbook_form').slideToggle('slow');return false;});});

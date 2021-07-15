@@ -1,0 +1,144 @@
+#body_course
+.page_intro{margin:0}.course_top{margin:0
+0 12px 0;padding:6px
+12px;border-bottom:1px solid #CCC;vertical-align:middle}.references{text-align:right}.references
+span{display:inline-block;margin:0
+0 6px 4px;padding:0
+0 0 26px;background:url(../../../site/views/default/_images/course/ref_status.gif) no-repeat;line-height:16px;height:16px}.references
+span.ref_label{background:none}span.ref_none{background-position:6px 0}span.ref_partial{background-position:6px -16px}span.ref_complete{background-position:6px -32px}.register{margin: -24px 0 12px;text-align:center;color:#F00 !important;font-size:15px}.register a,
+.register a:hover{text-decoration:underline !important}.calendar{margin-top:12px;padding:0}.calendar
+h3{margin:0
+0 4px 0;padding:0
+0 0 3px;font-size:16px;color:#666}.calendar
+ul{width:256px;padding:0}.calendar
+li{float:left;margin:0
+4px 16px 0;padding:0;background:url(../../../site/views/default/_images/course/back_calendar.gif) no-repeat 53px 12px}.calendar li
+li{margin:1px
+4px 0 0;background:none}.calendar a,
+.calendar
+span{display:block;width:58px;height:45px;padding:3px
+8px 0 6px;background:url(../../../site/views/default/_images/course/week_status.gif) no-repeat;font-size:20px;font-weight:bold;line-height:16px;color:#69C;letter-spacing: -1px;text-align:right}.calendar li a:hover{color:#9CC}.calendar
+a.partial{background-position:0 -45px;color:#F4AD68}.calendar a.partial:hover{color:#FFC499}.calendar
+a.complete{background-position:0 -90px;color:#FF9}.calendar a.complete:hover{color:#FFF}.calendar
+em{display:block;font-size:11px;font-style:normal;text-transform:uppercase;letter-spacing:0}.week_email{height:18px;overflow:hidden;font-size:14px}.week_email a,
+.week_email
+span{display:block;float:left;margin:2px
+0 2px 0;font-size:14px}.week_email
+a{padding:0
+0 0 22px}.course_top
+.act_text{color:#F00 !important}.course_top
+.deactivated{color:#F00 !important}.course_top
+.act_note{font-size:13px}.week_email
+.activate{float:right;background:url(../../../site/views/default/_images/course/lesson_activate.gif) no-repeat}.week_email
+.activate.loader{background:url(../../../site/views/default/_images/course/loader_16.gif) no-repeat}.week_email
+.view_options{float:right;background:url(../../../site/views/default/_images/course/arrow_down.gif) no-repeat}.week_email
+.deactivate{clear:both;margin:6px
+0 2px 0;background:url(../../../site/views/default/_images/course/lesson_deactivate.html) no-repeat}.week_email
+.deactivate.loader{background:url(../../../site/views/default/_images/course/loader_16.gif) no-repeat}.course_top
+.mail_options{clear:both;display:block;height:80px;margin:0;background-color:#EEE}.course_top .activated,
+.course_top .act_note,
+.course_top
+.deactivated{display:none}.course_top
+.activated{font-weight:bold;color:#090}.clear_fix:after{content:".";display:block;clear:both;visibility:hidden;line-height:0;height:0}.clear_fix{zoom:1}#body_week .page_share_top,
+#body_week
+.page_share_bottom{border:0}#body_week
+.page_share_bottom{margin:0;padding:0}#body_week
+.page_content{margin:0}.logged
+.register{display:none}.page_content
+h2{margin:8px
+0 2px 0;font-size:20px;color:#00769D}.page_content h2
+em{font-size:14px;font-style:normal;font-weight:normal}#body_week .page_content
+span{margin-top:0;font-size:13px;color:#777}#points{display:block;font-size:9px;text-align:center;text-transform:uppercase}.lessons_table{clear:both;margin: -8px 0 5px 0}.lessons_table
+td{height:20px;padding:4px
+7px;vertical-align:top;border-bottom:1px solid #CACACA;line-height:20px}.lessons_table
+a{display:block;padding-left:28px;background:url(../../../site/views/default/_images/course/week_table_unchecked.gif) no-repeat left center;font-size:14px}.lessons_table
+em{font-style:normal;text-transform:uppercase;font-size:11px}.lessons_table
+b{display:block;color:#BBB;text-align:center;font-size:16px}.lessons_table .completed
+a{background-image:url(../../../site/views/default/_images/course/week_table_checked.gif) !important;color:#64B100}.lessons_table .completed
+b{color:#64B100}#points_stats{margin-bottom:16px;padding:4px
+12px;font-size:15px;font-weight:bold;color:#999;text-align:right}#points_stats
+b{color:#da251d;font-size:17px}#points_stats
+.itsOk{color:#64b100}.page_content
+h2.resources{margin-top:0;color:#F60}#resourcesTable{clear:both;margin:12px
+0 20px 0;border-top:1px solid #CACACA}#resourcesTable
+td{height:20px;padding:4px
+7px;vertical-align:top;border-bottom:1px solid #CACACA;line-height:20px}#resourcesTable
+a{display:block;padding-left:28px;background:url(../../../site/views/default/_images/course/week_table_unchecked.gif) no-repeat left center;font-size:14px;color:#960}#resourcesTable a:hover{color:#990}#resourcesTable .completed
+a{background-image:url(../../../site/views/default/_images/course/week_table_res_checked.gif) !important;color:#F60}.status{margin-top: -10px}.week_status{float:right;width:270px;text-align:right}.week_status
+span{float:right}.week_progress{float:right;width:120px;height:12px;overflow:hidden;margin:3px
+0 0 6px;background-image:url(../../../site/views/default/_images/course/progress_0.png)}.week_progress.partial{background-image:url(../../../site/views/default/_images/course/progress_1.png)}.week_progress.completed{background-image:url(../../../site/views/default/_images/course/progress_2.png)}.week_progress
+span{display:block;float:left;width:240px;height:12px;background:url(../../../site/views/default/_images/course/progress_back.png) no-repeat}.backToCourse{float:left}div#explanation{padding:0
+4px}div#explanation
+h4{font-size:13px;font-weight:bold;margin:2px
+0 6px 0}div#explanation
+p{margin-bottom:5px;font-size:11px;line-height:15px}div#explanation
+img{margin:2px
+0 10px 0;border:1px
+solid #AAA}div#explanation
+a{font-size:14px;font-weight:bold}div#coursePayPal{float:left;width:521px;margin-bottom:12px;padding:6px
+12px;background-color:#F2F2F2;border-bottom:1px solid #CCC;vertical-align:middle}div#coursePayPal
+form{float:right}div#coursePayPal
+span{display:block;padding-top:4px;font-size:13px;color:#000}#mainContent div#coursePayPal
+input{height:auto;width:auto;padding:0;background:none;border:none}#body_lesson
+.page_content{margin:0}#body_lesson .page_share_top,
+#body_lesson
+.page_share_bottom{border:0}#body_lesson
+.page_share_bottom{margin:0;padding:0}#body_lesson
+.register{display:none}.page_intro{margin:0
+0 8px 0;padding:0
+0 8px 0}.page_ads{float:left;margin:0
+12px 8px 0}.back_week{float:left;margin:3px
+0 0 0}.navigation .complete_button,
+.navigation
+.complete_label{float:right;height:20px;margin:2px
+0 0 0;padding:2px
+0 0 26px;background:url(../../../site/views/default/_images/course/label_completed.gif) no-repeat;font-size:14px;font-weight:bold}.navigation
+.loader{background:url(../../../site/views/default/_images/course/lesson_loader.gif) no-repeat}.navigation
+.complete_label{display:none;background:url(../../../site/views/default/_images/course/label_completed.gif) no-repeat;color:#090}.completed
+.complete_button{display:none}.completed
+.complete_label{display:block}.nav_bottom{margin-top:12px}.pt_lesson
+h1{font-size:21px}.explanation{margin:0
+0 12px 0;padding:8px
+8px 8px 20px;background:#f8f8f8;border-bottom:1px solid #ccc}.sequence{display:block;float:left;width:314px;height:110px;margin:12px
+0 8px 2px}#read_instructions,#goto_text_and_audio,#mark_as_read{display:block;height:26px;padding:2px
+0 4px 36px;background:no-repeat left top;font-family:"Lucida Grande","Lucida Sans Unicode",Verdana;font-size:15px;color:#FAFAFA}#read_instructions{background-image:url(../../../site/views/default/_images/course/lesson_sequence_1b.gif)}#goto_text_and_audio{margin:4px
+0 0 0;background-image:url(../../../site/views/default/_images/course/lesson_sequence_2b.gif)}#read_instructions:hover,#goto_text_and_audio:hover{color:#FFF}#mark_as_read{margin:1px
+0 0 0;background-image:url(../../../site/views/default/_images/course/lesson_sequence_3b.gif)}.open_external{display:block;margin:0
+0 0 30px;font-size:11px;color:#666}.thumbnail{display:block;float:left;width:166px;height:130px;margin:0;background:url(../../../site/views/default/_images/course/back_thumbnail.jpg);border:none}.thumbnail
+img{position:relative;width:140px;height:105px;margin:13px
+0 0 13px}.lessonItems{padding:0;font-family:Arial,Helvetica,sans-serif;font-size:13px}.lessonItems
+li{clear:both;padding:4px
+0 16px 0;border-top:1px dotted #999}.lessonItems
+li.vocabulary{border:none}.lessonItems
+h3{color:#F60;font-size:18px;margin:20px
+0 10px 0}.lessonItems
+.note{display:block;margin:0
+0 12px 0;padding-top:0;border:0;font-size:13px;color:#999;line-height:16px}.audio{padding:3px}.group{clear:both;position:relative;margin:0;padding:4px}.vocabularyList
+ul{float:left;width:50%;padding-right:4px}.vocabularyList
+ul.left{border-right:1px solid #CCC}.vocabularyList
+li{display:block;clear:none;margin:0px;padding:4px
+0 0 8px;border:none;line-height:17px}.vocabularyList ul.left
+li{padding:4px
+8px 0 0}.vocabularyList
+li.sep{height:14px}.vocabularyList
+em{font-style:normal;color:#88A308}.noborder{border:none !important}#body_lesson table
+em{font-style:normal;color:#88A308}.irregular
+th{padding:4px;text-align:left;border-bottom:1px none #CCC;background-color:#EFEFEF}.irregular
+td{padding:4px}.phrasal{width:auto}.phrasal th,
+.phrasal
+td{padding:4px}.phrases{list-style-type:none}.phrases
+li{display:block;clear:both;width:auto !important;padding-left:0;border:none !important;padding-bottom:7px !important}.phrases li
+b{display:block;margin-bottom:5px}.phrases li
+em{font-style:normal;margin-bottom:8px}.instructions{display:none}.instructions
+h4{margin:0
+0 4px 0;padding:0
+0 0 14px;color:#333}.instructions
+ul{padding:0
+12px 16px 12px;list-style:none;margin:0}.instructions
+li{padding:8px
+0 0 18px;background:url(../../../site/views/default/_images/course/bullet_blue.gif) no-repeat 0 8px;line-height:17px;color:#666}#close_instructionsK{padding:0
+14px 0 0;float:right;background:url(../../../site/views/default/_images/course/close.gif) no-repeat right 4px}#close_instructions{display:block;float:right;width:14px;height:14px;background:url(../../../site/views/default/_images/course/close2.gif) no-repeat}.forum_topic{min-height:60px;margin:18px
+0 12px 0;padding:4px
+8px 6px 64px;background:#f8f8f8 url(../../../site/views/default/_images/course/icon_dayinfo.gif) no-repeat 6px 6px;border:1px
+solid #ccc;font-size:15px}.forum_topic
+p{margin-bottom:8px}
